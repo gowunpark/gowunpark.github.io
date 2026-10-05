@@ -1,14 +1,12 @@
 ---
 permalink: /
-title: "Gowun Park"
+title: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-About Me
-======
 Hi, I am Gowun "Gonnie" Park. I am an assistant professor at the University of Hawai‘i at Mānoa (UH Mānoa). I earned a Ph.D. in Public Policy and Management at the Evans School of Public Policy & Governance at the University of Washington, and worked as a postdoctoral scholar at Stanford University before joining UH Mānoa. 
 
 Research
